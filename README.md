@@ -3,6 +3,6 @@
 
 ---
 
-[22.12.21](https://www.notion.so/22-12-21-11ad7f295f124fbca103a024b0e3ba04)
+[22.12.21](https://github.com/HiImYong99/TIL-Today-I-Learn/blob/main/22.12.21.md)
 
-[22.12.22](https://www.notion.so/22-12-22-e283d07eb8354aedb40ed42c6d2bea6b)
+[22.12.22](https://github.com/HiImYong99/TIL-Today-I-Learn/blob/main/22.12.22.md)
