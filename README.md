@@ -13,8 +13,8 @@
 
 [23.01.01](https://github.com/HiImYong99/TIL-Today-I-Learn/blob/main/23.01.01.md) [소수점 출력]
 
-[23.01.03](https://github.com/HiImYong99/TIL-Today-I-Learn/blob/main/23.01.03.md) [Segue]
+[23.01.03](https://github.com/HiImYong99/TIL-Today-I-Learn/blob/main/23.01.03%5BSegue%5D.md) [Segue]
 
-[23.01.05](https://github.com/HiImYong99/TIL-Today-I-Learn/blob/main/23.01.05.md) [Delegate]
+[23.01.05](https://github.com/HiImYong99/TIL-Today-I-Learn/blob/main/23.01.05%20%5BDelegate%5D.md) [Delegate]
 
-[23.01.10](https://github.com/HiImYong99/TIL-Today-I-Learn/blob/main/23.01.10.md) [extension]
+[23.01.10](https://github.com/HiImYong99/TIL-Today-I-Learn/blob/main/23.01.10%5Bextension%5D.md) [extension]
